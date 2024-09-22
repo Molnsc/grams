@@ -12,5 +12,5 @@ setTimeout(() => {
         } else {
             alert("A+333");
         }
-    }, 1000); // 1 second wait for the class to be applied
-}, 1000); // 1 second wait for the click to take effect
+    }, 1000); 
+}, 1000);
