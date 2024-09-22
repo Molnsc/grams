@@ -1,3 +1,3 @@
-# Chess Assist Extension [Grams]
+# PRODUCTION SOURCE
 
 v1.0.6
